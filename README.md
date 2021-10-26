@@ -23,5 +23,5 @@ $  python run_uci_regression.py --dataset workloads --method ntksketch --ns_deg 
 
 To run CNTK Sketch with CIFAR-10 dataset (Table 1), execute
 ```console
-$  python run_cifar10.py
+$  python run_cifar.py
 ```
