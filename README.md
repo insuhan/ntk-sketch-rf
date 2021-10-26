@@ -1,6 +1,6 @@
 # Scaling Neural Tangent Kernels via Sketching and Random Features
 
-Python implementation of [Scaling Neural Tangent Kernels via Sketching and Random Features](https://arxiv.org/pdf/2106.07880.pdf)
+Python implementation of [Scaling Neural Tangent Kernels via Sketching and Random Features](https://arxiv.org/pdf/2106.07880.pdf) (NeurIPS 2021)
 
 Structures:
 - See `ntk_sketch.py` for NTK Sketch algorithm
